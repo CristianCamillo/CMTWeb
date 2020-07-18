@@ -1,0 +1,16 @@
+.homepageButton
+{
+  	padding: 16px;
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+  	border: 2px solid #CC7722;
+  	
+  	background-color: white; 
+  	color: black; 
+}
+
+.homepageButton:hover
+{
+  	background-color: #CC7722;
+  	color: white;
+}

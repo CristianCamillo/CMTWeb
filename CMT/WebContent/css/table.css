@@ -1,0 +1,28 @@
+.table
+{
+	text-align: left;
+}
+
+.table th
+{
+	padding: 5px;
+	background-color: #999;
+}
+
+.table tr
+{
+	padding: 5px;
+	cursor: pointer;
+}
+
+.table tr:hover
+{
+	padding: 5px;
+	background-color: #955;
+	cursor: pointer;
+}
+
+.selected
+{
+	background-color: #00ff40;
+}

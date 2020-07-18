@@ -1,0 +1,16 @@
+*
+{
+   font-size: 1em !important;
+   font-family: Arial !important;
+}
+
+body
+{
+	padding: 10px 10px;
+}
+
+div + hr
+{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
