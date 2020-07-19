@@ -9,4 +9,4 @@ Sono però presenti, oltre a ciò che è stato definito nel ODD, 3 file immagine
 NB2:
 
 Il framework Selenium IDE non è in grado di mostrare messaggi alert.
-Per tanto, non sono visibili.
+Pertanto, non sono visibili.
