@@ -10,3 +10,5 @@ NB2:
 
 Il framework Selenium IDE non è in grado di mostrare messaggi alert.
 Pertanto, non sono visibili.
+
+Pesiello
